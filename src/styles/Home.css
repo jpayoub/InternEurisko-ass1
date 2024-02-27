@@ -1,0 +1,14 @@
+.obj{
+    margin:30px;
+}
+.title{
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+
+.paragraph{
+    margin-inline: 150px;
+    text-align: justify;
+    font-size: large;
+}
